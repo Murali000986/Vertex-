@@ -66,7 +66,7 @@ export default function Footer() {
             whiteSpace: 'nowrap',
           }}
         >
-          VERTEX SOLUTION
+          VORTEX SOLUTIONS
         </span>
       </div>
 
@@ -180,11 +180,11 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:info@vertexsolution.in"
+                  href="mailto:info@vortexsolution.in"
                   className="flex gap-3 text-gray-muted text-sm hover:text-gold transition-colors"
                 >
                   <Mail size={14} className="text-gold mt-0.5 flex-shrink-0" />
-                  info@vertexsolution.in
+                  info@vortexsolution.in
                 </a>
               </li>
               <li>
@@ -206,7 +206,7 @@ export default function Footer() {
         <div className="w-full h-px bg-light-200 mb-8" />
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-gray-muted text-xs tracking-wide">
-            © {year} <span className="text-dark font-semibold">Vertex Solution</span>. All rights reserved.
+            © {year} <span className="text-dark font-semibold">Vortex Solutions</span>. All rights reserved.
           </p>
           <div className="flex gap-6">
             {['Privacy Policy', 'Terms of Service', 'Sitemap'].map((t) => (

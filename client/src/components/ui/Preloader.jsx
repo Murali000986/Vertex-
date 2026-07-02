@@ -65,7 +65,7 @@ export default function Preloader() {
             transition={{ delay: 0.5, duration: 0.8 }}
           >
             <div className="font-display font-black tracking-widest text-dark text-2xl leading-none">
-              VERTEX
+              VORTEX
             </div>
             <div className="font-sans font-medium text-gold text-xs tracking-[0.3em] uppercase mt-2 leading-none">
               Solution

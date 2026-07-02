@@ -82,7 +82,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="font-display font-bold text-dark text-sm mb-0.5">Email</div>
-                    <a href="mailto:info@vertexsolution.in" className="text-gold text-sm hover:text-gold-dark transition-colors">info@vertexsolution.in</a>
+                    <a href="mailto:info@vortexsolution.in" className="text-gold text-sm hover:text-gold-dark transition-colors">info@vortexsolution.in</a>
                   </div>
                 </div>
               </div>

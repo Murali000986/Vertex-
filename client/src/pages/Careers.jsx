@@ -30,7 +30,7 @@ export default function Careers() {
         <div className="relative z-10 max-w-7xl mx-auto px-6 w-full">
           <motion.div initial={{ opacity: 0, y: 25 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
             <div className="gold-label mb-4"><div className="w-8 h-px bg-gold" />Join Our Team</div>
-            <h1 className="section-title">Careers at <span className="text-gradient-gold">Vertex</span></h1>
+            <h1 className="section-title">Careers at <span className="text-gradient-gold">Vortex</span></h1>
           </motion.div>
         </div>
       </section>

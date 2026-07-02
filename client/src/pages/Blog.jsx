@@ -21,7 +21,7 @@ export default function Blog() {
         <div className="relative z-10 max-w-7xl mx-auto px-6 w-full">
           <motion.div initial={{ opacity: 0, y: 25 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
             <div className="gold-label mb-4"><div className="w-8 h-px bg-gold" />Expert Insights</div>
-            <h1 className="section-title">The Vertex <span className="text-gradient-gold">Blog</span></h1>
+            <h1 className="section-title">The Vortex <span className="text-gradient-gold">Blog</span></h1>
           </motion.div>
         </div>
       </section>
@@ -39,7 +39,7 @@ export default function Blog() {
                 </div>
                 <div className="p-7">
                   <div className="flex items-center gap-4 text-gray-muted text-xs mb-4">
-                    <span className="flex items-center gap-1"><User size={10} /> Vertex Team</span>
+                    <span className="flex items-center gap-1"><User size={10} /> Vortex Team</span>
                     <span className="flex items-center gap-1"><Clock size={10} /> {post.read} read</span>
                     <span>{post.date}</span>
                   </div>

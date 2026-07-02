@@ -67,7 +67,7 @@ export default function Products() {
                     <h3 className="font-display font-bold text-dark text-sm mb-2 leading-snug">{product.name}</h3>
                     <p className="text-gray-muted text-xs leading-relaxed mb-5">{product.desc}</p>
                     <a
-                      href={`https://wa.me/919849067007?text=Hi%20Vertex%20Solution%2C%20I%20am%20interested%20in%20${encodeURIComponent(product.name)}`}
+                      href={`https://wa.me/919849067007?text=Hi%20Vortex%20Solution%2C%20I%20am%20interested%20in%20${encodeURIComponent(product.name)}`}
                       target="_blank"
                       rel="noreferrer"
                       className="btn-gold text-xs w-full justify-center flex items-center gap-2 py-2.5"

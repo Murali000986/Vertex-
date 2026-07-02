@@ -7,10 +7,10 @@ export default function CTASection() {
     <section className="py-24 bg-dark relative overflow-hidden">
       {/* Subtle watermark */}
       <div
-        className="vertex-watermark absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-[0.03]"
+        className="vortex-watermark absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 opacity-[0.03]"
         aria-hidden="true"
       >
-        VERTEX
+        VORTEX
       </div>
 
       <div className="max-w-4xl mx-auto px-6 text-center relative z-10">

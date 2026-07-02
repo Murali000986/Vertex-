@@ -55,7 +55,7 @@ export default function AboutPreview() {
               India's Most Trusted <span className="text-gradient-gold">AV Experts</span>
             </h2>
             <p className="text-gray-muted text-base leading-relaxed mb-5">
-              Vertex Solution was founded with one mission — to bring studio-grade audio and cinematic
+              Vortex Solutions was founded with one mission — to bring studio-grade audio and cinematic
               visual experiences into people's homes and workplaces. With over 30 years in the
               industry, we've built a reputation on quality, precision, and unmatched after-sales care.
             </p>

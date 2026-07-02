@@ -13,7 +13,7 @@ const faqs = [
   { q: 'What is the difference between soundproofing and acoustic treatment?', a: 'Soundproofing prevents sound from entering or leaving a room (isolation). Acoustic treatment controls how sound behaves within the room (absorption, diffusion, reflection). Both are often needed for a perfect home theater.' },
   { q: 'Can I upgrade my existing system?', a: "Yes, we specialize in system upgrades and integrations. Whether it's adding Dolby Atmos to an existing setup or upgrading to a 4K laser projector, our team can seamlessly enhance your current system." },
   { q: 'Do you handle commercial AV projects?', a: 'Yes, we handle commercial projects of all scales — boardrooms, conference rooms, auditoriums, hotels, restaurants, and retail spaces across Hyderabad and Bangalore.' },
-  { q: 'Is Vertex Solution authorized to install Dolby Atmos systems?', a: 'Yes. Our team is certified and experienced in Dolby Atmos and DTS:X installations. We have completed numerous Dolby Atmos home theater projects across Hyderabad and Bangalore.' },
+  { q: 'Is Vortex Solutions authorized to install Dolby Atmos systems?', a: 'Yes. Our team is certified and experienced in Dolby Atmos and DTS:X installations. We have completed numerous Dolby Atmos home theater projects across Hyderabad and Bangalore.' },
 ]
 
 function FAQItem({ faq, index }) {

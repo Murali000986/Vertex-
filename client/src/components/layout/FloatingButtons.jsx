@@ -25,7 +25,7 @@ export default function FloatingButtons() {
       
       {/* Email */}
       <a 
-        href="mailto:info@vertexsolution.in" 
+        href="mailto:info@vortexsolution.in" 
         className="w-12 h-12 rounded-full flex items-center justify-center bg-white border border-light-200 text-dark shadow-soft-hover hover:-translate-y-1 hover:shadow-lg hover:border-gold hover:text-gold transition-all duration-300 group hidden md:flex"
         aria-label="Email Us"
       >

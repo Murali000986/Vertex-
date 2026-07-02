@@ -1,4 +1,4 @@
-// Vertex Solution Logo SVG component
+// Vortex Solutions Logo SVG component
 export default function Logo({ size = "md", showText = true, color = "dark" }) {
   const sizes = {
     sm: { svg: 24, text: "text-lg" },
@@ -47,7 +47,7 @@ export default function Logo({ size = "md", showText = true, color = "dark" }) {
       {showText && (
         <div className="flex flex-col">
           <span className={`font-display font-black tracking-widest leading-none ${current.text} ${textColorClass}`}>
-            VERTEX
+            VORTEX
           </span>
           <span className="font-sans font-semibold text-gold text-[0.35em] tracking-[0.3em] uppercase mt-1 leading-none pl-1">
             Solution

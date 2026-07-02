@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { ArrowRight } from 'lucide-react'
 
 const timelineEvents = [
-  { year: '1993', title: 'Company Founded', desc: 'Vertex Solution began as a small audio equipment shop in Hyderabad, driven by a passion for sound.' },
+  { year: '1993', title: 'Company Founded', desc: 'Vortex Solutions began as a small audio equipment shop in Hyderabad, driven by a passion for sound.' },
   { year: '1998', title: 'First Major Installation', desc: 'Completed our first premium home theater installation for a luxury residence in Banjara Hills.' },
   { year: '2005', title: 'Commercial AV Expansion', desc: 'Expanded into corporate and commercial AV — boardrooms, auditoriums, and hospitality spaces.' },
   { year: '2010', title: 'Acoustic Division Launched', desc: 'Launched a dedicated architectural acoustics and soundproofing division.' },
@@ -54,7 +54,7 @@ export default function About() {
                 30 Years of <span className="text-gradient-gold">Passion</span>
               </h2>
               <p className="text-gray-muted text-base leading-relaxed mb-6">
-                Founded in 1993, Vertex Solution started with a simple belief: that extraordinary
+                Founded in 1993, Vortex Solutions started with a simple belief: that extraordinary
                 sound and vision have the power to transform spaces and create lasting memories.
                 From a modest showroom in Hyderabad, we grew into one of India's most respected
                 names in home theater and commercial AV design.

@@ -23,11 +23,11 @@ export default function WhyChooseUs() {
         >
           <div className="gold-label mb-4 justify-center">
             <div className="w-8 h-px bg-gold" />
-            Why Vertex Solution
+            Why Vortex Solutions
             <div className="w-8 h-px bg-gold" />
           </div>
           <h2 className="section-title">
-            The Vertex <span className="text-gradient-gold">Advantage</span>
+            The Vortex <span className="text-gradient-gold">Advantage</span>
           </h2>
         </motion.div>
 

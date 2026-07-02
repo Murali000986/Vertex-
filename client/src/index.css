@@ -87,7 +87,7 @@
   }
 
   /* Extremely Subtle Watermark */
-  .vertex-watermark {
+  .vortex-watermark {
     @apply font-display font-black pointer-events-none select-none text-transparent;
     font-size: clamp(6rem, 15vw, 15rem);
     -webkit-text-stroke: 1px rgba(0,0,0,0.03);

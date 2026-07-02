@@ -9,13 +9,13 @@ const testimonials = [
   {
     name: 'Rajesh Kumar',
     role: 'Homeowner, Jubilee Hills',
-    review: 'Vertex Solution transformed our living room into a world-class home theater. The attention to detail, from acoustic treatment to calibration, was extraordinary. We are absolutely blown away.',
+    review: 'Vortex Solutions transformed our living room into a world-class home theater. The attention to detail, from acoustic treatment to calibration, was extraordinary. We are absolutely blown away.',
     rating: 5,
   },
   {
     name: 'Priya Sharma',
     role: 'CEO, TechStart Hyderabad',
-    review: 'Our boardroom AV setup is now the envy of every client who visits. Vertex Solution delivered on time, within budget, and with zero compromise on quality. Highly professional team.',
+    review: 'Our boardroom AV setup is now the envy of every client who visits. Vortex Solutions delivered on time, within budget, and with zero compromise on quality. Highly professional team.',
     rating: 5,
   },
   {
@@ -27,13 +27,13 @@ const testimonials = [
   {
     name: 'Suresh Reddy',
     role: 'Director, Skyline Hotels',
-    review: 'We engaged Vertex Solution for our hotel conference rooms. Their expertise in commercial AV is second to none. Installation was clean, professional, and the results are exceptional.',
+    review: 'We engaged Vortex Solutions for our hotel conference rooms. Their expertise in commercial AV is second to none. Installation was clean, professional, and the results are exceptional.',
     rating: 5,
   },
   {
     name: 'Ananya Krishnan',
     role: 'Interior Designer, Bangalore',
-    review: 'As a designer, I recommend Vertex Solution to all my premium clients. They understand aesthetics as well as acoustics. The acoustic panels they designed actually enhanced the room decor.',
+    review: 'As a designer, I recommend Vortex Solutions to all my premium clients. They understand aesthetics as well as acoustics. The acoustic panels they designed actually enhanced the room decor.',
     rating: 5,
   },
 ]
